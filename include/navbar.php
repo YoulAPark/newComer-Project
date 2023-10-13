@@ -35,9 +35,9 @@
                 </form> -->
 
                 <div class="text-end">
-                    <button type="button" onclick="location.href='/newcomer/admin/register.php'" class="btn btn-outline-light me-2">글쓰기</button>
+                    <button type="button" class="btn btn-outline-light me-2">글쓰기</button>
                     <button type="button" class="btn btn-outline-light me-2">로그인</button>
-                    <button type="button" class="btn btn-warning">가입하기</button>
+                    <button type="button" onclick="location.href='/newcomer/admin/register.php'" class="btn btn-warning">가입하기</button>
                 </div>
             </div>
         </div>
